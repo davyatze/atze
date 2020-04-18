@@ -3,7 +3,6 @@ Section: Themes
 Maintainer: Atze
 Architecture: iphoneos-arm
 Version: 0.0.1
-Depends: mobilesubstrate
 Filename: debs//ThBY.deb
 Size: 481846 
 MD5sum: 0ffdc6ca9d7490e467a4d9146315d304
