@@ -5,8 +5,8 @@ Architecture: iphone-os-arm
 Description: A simple blue theme for ios 13.4.1!
 Maintainer: Atze
 Author: Atze
-Section: Themes
-Filename: /debs/com.samgisaninja.successionrestore_1.4.12_iphoneos-arm.deb
+Section: Tweak
+Filename: /debs/succession.deb
 Size: 1.388.036
 MD5sum: 45066378aa0a6e1bb88f1275f7bc22d0
 SHA1: a3303094610cc7ce4f8dbea96cce65fe217c696a
