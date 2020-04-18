@@ -1,4 +1,4 @@
-Package: com.atze.thby
+Package: com.thby.atze
 Name: ThBY
 Version: 1.0
 Architecture: iphone-os-arm
@@ -6,7 +6,7 @@ Description: A simple blue theme for ios 13.4.1!
 Maintainer: Atze
 Author: Atze
 Section: Themes
-Filename: /ThBY.deb
+Filename: /debs/com.thby.atze.deb
 Size: 481.846
 MD5sum: 0ffdc6ca9d7490e467a4d9146315d304
 SHA1: 3b7e50c91ed32b19d43e90bac2bd0f6381129a29
