@@ -1,0 +1,10 @@
+Package: com.samgisaninja.succession
+Name: ThBY
+Version: 1.0
+Architecture: iphone-os-arm
+Description: A simple blue theme for ios 13.4.1!
+Maintainer: Atze
+Author: Atze
+Section: Tweak
+Filename: debs/succession.deb
+Size: 1.388.036
