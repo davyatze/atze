@@ -1,0 +1,9 @@
+Package: com.davideatzeni.ThBY
+Name: Theme BY
+Version: 1.0
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Author:Atze
+Description: Colourful explosions.
+Maintainer:Atzee
+Section: Themes
