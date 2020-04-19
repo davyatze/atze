@@ -12,3 +12,18 @@ Size: 481802
 MD5sum: 17c06ca0fdc91b57f510f03b8fcbcceb
 SHA1: 166e443f44e31bb06242bf46c8f35678c64c5419
 SHA256:74045fc3759ef137cce6fa6175a5da86dfd41b6f0537a6ad591b37c04582bbda
+
+Package: com.atze.hideyourdock
+Name: HideYourDock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A simple blue theme for ios 13.4.1 ;)
+Maintainer: atzerepo
+Author: Atze
+Section: Tweaks
+Depends:
+Filename: debs//hideyourdock.deb
+Size: 3258
+MD5sum: f734aba3ef1b99ddc1e70f40a2318bae
+SHA1: 52188b1313ab49a59cfc8562239112cc3012ec94
+SHA256: 7cedfd9c939c87280372e693304860c99a705686d2965ddbb1fa70764af700a6
