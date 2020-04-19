@@ -1,6 +1,6 @@
 Package: com.atze.ThBY
-Name: TheliliBY
-Version: beta 1.0
+Name: ThBY
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: A simple blue theme for ios 13.4.1 ;)
 Maintainer: atzerepo
