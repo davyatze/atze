@@ -1,15 +1,15 @@
-Package: com.atze.thby
-Name: ThBY
+Package: com.atze.ThBY
+Name: ThemeBY
 Depends:
 Version: 0.0.1
-Section: Ttheme
+Section: Themes
 Architecture: iphoneos-arm
 Description: Simple theme
-Filename: ./debs/com.atze.thby.deb
-MD5sum: 0ffdc6ca9d7490e467a4d9146315d304
-SHA1: 3b7e50c91ed32b19d43e90bac2bd0f6381129a29
-SHA256: 17399b7d291d6fad042d408c27fbefddb37a7f69eaf2c2a29cb73b335579a1eb
-Size: 481846
+Filename: ./debs/com.atze.ThBY.deb
+MD5sum: 388fe077e1ff2fc5751d8719910fa0e8
+SHA1: 750eec2b3f38628f6328ccc5cbb3d46d9c80b667
+SHA256: e341e34c33ab13e3d25719b6d0d528923503fb6bb2bb2b445089d8fea68f8a5e
+Size: 481808
 Maintainer: Atze
 Author: Atze 
 
