@@ -1,14 +1,14 @@
 Package: com.atze.ThBY
-Name: ThBY
+Name: TheliliBY
 Version: beta 1.0
 Architecture: iphoneos-arm
 Description: A simple blue theme for ios 13.4.1 ;)
 Maintainer: atzerepo
 Author: Atze
-Section: Theme
+Section: Themes
 Depends:
 Filename: debs//ThBY.deb
-Size: 481846
-MD5sum: 0ffdc6ca9d7490e467a4d9146315d304
-SHA1: 3b7e50c91ed32b19d43e90bac2bd0f6381129a29
-SHA256:17399b7d291d6fad042d408c27fbefddb37a7f69eaf2c2a29cb73b335579a1eb
+Size: 481802
+MD5sum: 17c06ca0fdc91b57f510f03b8fcbcceb
+SHA1: 166e443f44e31bb06242bf46c8f35678c64c5419
+SHA256:74045fc3759ef137cce6fa6175a5da86dfd41b6f0537a6ad591b37c04582bbda
