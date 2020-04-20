@@ -21,9 +21,9 @@ Description: Make your dock trasparent ;)
 Maintainer: atzerepo
 Author: Atze
 Section: Tweaks
-Depends:
+Depends: 
 Filename: debs//hideyourdock.deb
-Size: 3258
-MD5sum: f734aba3ef1b99ddc1e70f40a2318bae
-SHA1: 52188b1313ab49a59cfc8562239112cc3012ec94
-SHA256: 7cedfd9c939c87280372e693304860c99a705686d2965ddbb1fa70764af700a6
+Size: 10614
+MD5sum: add4a88a982b040f388f9644114e697a
+SHA1: 5624a70a31163ea0132a0e784e764c41fb149a0c
+SHA256: 664ccfb401995ccfb2a47c6da99385ba764bd81b146ce0f07b9b4a2e3d2ac097
