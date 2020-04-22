@@ -15,15 +15,15 @@ SHA256:74045fc3759ef137cce6fa6175a5da86dfd41b6f0537a6ad591b37c04582bbda
 
 Package: com.atze.hideyourdock
 Name: HideYourDock
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
-Description: Make your dock trasparent ;)
+Description: Make your dock trasparent, change the opacity ;)
 Maintainer: atzerepo
 Author: Atze
 Section: Tweaks
 Depends: 
 Filename: debs//hideyourdock.deb
-Size: 10614
-MD5sum: add4a88a982b040f388f9644114e697a
-SHA1: 5624a70a31163ea0132a0e784e764c41fb149a0c
-SHA256: 664ccfb401995ccfb2a47c6da99385ba764bd81b146ce0f07b9b4a2e3d2ac097
+Size: 11630 
+MD5sum: 22d5b205ac573ac4f0604f59a888a1f4
+SHA1: c64e81c0735347392a1a6e6cb89121bbd6966937
+SHA256: 88cbf8641440e83a4b78e8668ca93833ab0847c0b4d274bb28004eee5d710744
